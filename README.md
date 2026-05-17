@@ -1,3 +1,14 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Images/Logos/FBD-PS2-PICfix2-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="Images/Logos/FBD-PS2-PICfix2-Light.png">
+    <img
+      src="Images/Logos/FBD-PS2-PICfix2-Light.png"
+      alt="FBD PS2 PICfix2 Logo"
+      width="650">
+  </picture>
+</div>
+
 # PS2 PICfix2
 
 PICfix2 is a modernized version of the classic PlayStation 2 Matrix PICfix circuit.
